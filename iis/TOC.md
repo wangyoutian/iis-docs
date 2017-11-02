@@ -1,4 +1,9 @@
 ﻿# Get Started
+<<<<<<< HEAD
+=======
+## What’s New in IIS 10.0 Version 1709?
+### [IIS 10.0 Version 1709 HTTP Strict Transport Security (HSTS) Support](get-started/whats-new-in-iis-10-version-1709/iis-10-version-1709-hsts.md)
+>>>>>>> ef5ae7d5... Modifications based on victor's comments
 ## What’s New in IIS 10.0?
 ### [New Features Introduced in IIS 10.0](get-started/whats-new-in-iis-10/new-features-introduced-in-iis-10.md)
 ### [Introducing IIS on Nano Server](get-started/whats-new-in-iis-10/introducing-iis-on-nano-server.md)
